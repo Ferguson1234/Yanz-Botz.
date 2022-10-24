@@ -80,6 +80,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 * [`Hisoka775`](https://github.com/Hisoka775)
 * [`DikaArdnt`](https://github.com/DikaArdnt)
 * [`Febriansyah`](https://github.com/FebriansyahXd)
+* [`Aldi Fuazi`](https://github.com/xZiyy)
 
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
