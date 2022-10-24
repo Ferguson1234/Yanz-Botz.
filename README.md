@@ -81,6 +81,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 * [`DikaArdnt`](https://github.com/DikaArdnt)
 * [`Febriansyah`](https://github.com/FebriansyahXd)
 * [`Aldi Fuazi`](https://github.com/xZiyy)
+* [`IqbalzzX`](https://github.com/IqbalzzX)
 
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
