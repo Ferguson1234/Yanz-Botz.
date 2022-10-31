@@ -1501,28 +1501,18 @@ for (let i of anu) {
 await sleep(1500)
 let BcBut5Loc = [{
 urlButton: {
-displayText: 'YouTube',
-url: 'https://youtube.com/channel/UCrIvOGs1TRDcKODSH9BYlcg'
-}
-}, {
-callButton: {
-displayText: 'Number Owner',
-phoneNumber: '+62 813-2233-2240'
+displayText: 'Github',
+url: 'https://github.com/YanzBotz/Yanz-Botz.'
 }
 }, {
 quickReplyButton: {
 displayText: 'OWNER',
 id: 'owner'
 }
-}, {
+}, 
 quickReplyButton: {
-displayText: 'SCRIPT',
-id: 'sc'
-}  
-}, {
-quickReplyButton: {
-displayText: 'RUNTIME',
-id: 'sc'
+displayText: 'SPEED',
+id: 'test'
 }
 }]
 img = fs.readFileSync('./lib/YANZ.jpg')
